@@ -5,7 +5,7 @@ namespace maltilang
     {
         //% blockId="itemlight"
         //% block="@Localization(local.ja-JP) 光"
-        //% block="@Localization(local.ja-JP) Light"
+        //% block="@Localization(local.en) Light"
             Light,
         //% blockId="itemstar"   
         //% block="@Localozation(local.ja-JP) 星"
